@@ -1,0 +1,1 @@
+/home/sure/latihan1.py
